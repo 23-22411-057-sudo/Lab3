@@ -13,4 +13,5 @@ This is line one
 This line was added for amend task.
 
 This is a test line for the force push task.
-This line was added locally.
+This line was edited remotely on GitHub.
+
